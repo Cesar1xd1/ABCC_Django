@@ -81,12 +81,12 @@ DEBUG = False
 ALLOWED_HOSTS = ['.onrender.com']
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'sql5768927',  # Nombre de la base de datos en XAMPP
-        'USER': 'sql5768927',  # Usuario por defecto de XAMPP
-        'PASSWORD': 'WRNLcxNHHy',  # XAMPP no tiene contraseña por defecto (déjala vacía)
-        'HOST': 'sql5.freesqldatabase.com',  # Servidor local
-        'PORT': '3306',  # Puerto de MySQL en XAMPP
+       'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'btyoay9wob2pfdgaglp6',  # Asegúrate de que esto sea correcto
+        'USER': 'unjoj2pjxwf44w3k',
+        'PASSWORD': 'uvXREwT5ipuWdmzMP8aI',  # Usa la misma contraseña que en la terminal
+        'HOST': 'btyoay9wob2pfdgaglp6-mysql.services.clever-cloud.com',
+        'PORT': '3306',
     }
 
     
